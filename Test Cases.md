@@ -78,8 +78,8 @@
 
 
 *************************************************************
- I would also test the following scenarios with the same manner as Test case 7
+ ** I would also test the following scenarios with the same manner as Test case 7
 
-Test if the largest word is in the middle
-Test if the largest word is the last
-Test if all the words in the file are equal length
+- Test if the largest word is in the middle
+- Test if the largest word is the last
+- Test if all the words in the file are equal length
