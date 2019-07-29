@@ -1,20 +1,26 @@
 # SecurityWorks_Final
 
 
-SecurityWorks Code Challenge (TransLoc Archetic) 
+SecurityWorks Code Challenge (Largest Words from a file) 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Programming Language used 
+
+Python v3.7
 
 ### Prerequisites
 
 Install your preferred ID, in my case I used Pycharm
 
 ```
+make sure python 3.7 is installed
 make sure Unittest package is installed in your Env
 
 ```
+
 
 
 ### Installing
@@ -41,9 +47,6 @@ To run this program open a cmd prompt and make sure you are in the SecurityWorks
 python -m unittest test_LargestWords.py
 
 ```
-
-
-
 
 ## Versioning
 
