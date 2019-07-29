@@ -1,4 +1,4 @@
-Test Plan for testing Largest Word in a file
+## Test Plan for testing Largest Word in a file
 
 Test Case 1:
     -Test Case Title    : Test if the file does not exist
