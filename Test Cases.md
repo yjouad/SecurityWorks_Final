@@ -1,6 +1,6 @@
 # Test Plan for testing Largest Word in a file
 
-Test Case 1:
+## Test Case 1:
     -Test Case Title    : Test if the file does not exist
     -Steps              :
                             1- Change the name of the file and the program.
@@ -8,7 +8,7 @@ Test Case 1:
 
 
 
-Test Case 2:
+## Test Case 2:
     -Test Case Title    : Test if the file is not empty
     -Steps: 1             :
                             1- Delete all the words in the file.
@@ -21,7 +21,7 @@ Test Case 2:
 
 
 
-Test Case 3:
+## Test Case 3:
     -Test Case Title    : Test if the file contains only one large word
     -Steps: 1             :
                             1- Make sure the file contains more than one largest word
@@ -33,7 +33,7 @@ Test Case 3:
 
 
 
-Test Case 4:
+## Test Case 4:
     -Test Case Title    : Test if the file contains more than one largest word
     -Steps: 1             :
                             1- Make sure the file contains only one largest word
@@ -44,7 +44,7 @@ Test Case 4:
     -Expected Result    : The Program should pass the Test case and indicating there's more largest word
 
 
-Test Case 5:
+## Test Case 5:
     -Test Case Title    : Test to print the largest word
     -Steps: 1             :
                             1- Make sure the file contains only one largest word
@@ -55,7 +55,7 @@ Test Case 5:
     -Expected Result    : The Program should pass the Test case and print the multiple largest word
 
 
-Test Case 6:
+## Test Case 6:
     -Test Case Title    : Test to print the transpose of largest word
     -Steps: 1             :
                             1- Make sure the file contains only one largest word
@@ -66,7 +66,7 @@ Test Case 6:
     -Expected Result    : The Program should pass the Test case and print the transpose multiple largest word
 
 
-Test Case 7:
+## Test Case 7:
     -Test Case Title    : Test if the largest word is the first
     -Steps: 1             :
                             1- Make sure the largest word is the first one in the file
